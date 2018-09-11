@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+/*------top------*/
+
+#nav {
+	margin: 0px;
+	background-image: url("images/Background image_edited.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	width: 100%;
+	height: 594px;
+	padding-bottom: 75px;
+}
+
+#top img {
+	width: 142px;
+	margin: 0px;
+	padding-top: 40px;
+	padding-left: 115px;
+	padding-bottom: 40px;
+}
+
+#top nav {
+	float: right;
+	width: 480px;
+	text-align: right;
+	margin: 0px;
+	padding-top: 50px;
+	padding-right: 160px;
+}
+
+#top nav ul {
+	margin: 0px;
+	list-style-type: none;
+}
+
+#top nav ul li {
+	margin: 0px;
+	display: inline;
+}
+
+#top nav ul li a {
+	margin: 0px;
+	padding-left: 15px;
+	color: white;
+	text-decoration: none;
+}
+
+#judul {
+	color: white;
+	border-top: solid 1px white;
+	margin: 0px;
+	padding-left: 115px;
+	padding-top: 200px;
+}
+
+#sub {
+	text-align: center;
+	margin: 0px;
+	padding-top: 35px;
+	background-color: #EEEEEE;
+	padding-bottom: 35px;
+}
+
+#sub p {
+	margin: 0px;
+	color: #4A4A4A;
+}
+
+#sub p a {
+	color: white; 
+	background: linear-gradient(#f76b10,#fad900);
+	border-radius: 50px;
+	padding: 10px 20px;
+	margin-left: 40px;
+	text-decoration: none;
+}
+
+/*------middle------*/
+
+
+
+/*------bottom------*/
